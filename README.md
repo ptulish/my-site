@@ -12,7 +12,7 @@
         <header class="site-header">
           <nav class="site-navigation">
             <a class="logo-link" href="index.html">
-              <img src="portfolio/фотки/Logotip.jpg" width="62" height="50">
+              <img src="фотки/Logotip.jpg" width="62" height="50">
             </a>
             <ul class="navigation-list">
                 <li>О нас</li>
